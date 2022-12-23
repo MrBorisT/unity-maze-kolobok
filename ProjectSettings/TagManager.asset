@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Maze
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Scanners
+  - Water
+  - UI
+  - Walls
+  - PlayerAndEnemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3706129369
+    locked: 0
+  - name: Collectibles
+    uniqueID: 2992527669
+    locked: 0
+  - name: PlayerAndEnemies
+    uniqueID: 3570487897
+    locked: 0
